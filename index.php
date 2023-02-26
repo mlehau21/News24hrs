@@ -95,7 +95,7 @@
         <!-- <div class="col-lg-4 col-md-4 col-sm-4"> -->
           <div class="single_footer_top wow fadeInRight">
             <h2>Thông tin</h2>
-            <p>Công ty tin tức New24hours <br> Địa chỉ: Số 1 đường 3/2, Phường Xuân Khánh, Quận Ninh Kiều, thành Phố cần Thơ <br> Hotline: 1900.000 <br> Email: contact@news24hours.com</p>
+            <p>Công ty tin tức News24hrs <br> Địa chỉ: Số 1 đường 3/2, Phường Xuân Khánh, Quận Ninh Kiều, thành Phố cần Thơ <br> Hotline: 1900.000 <br> Email: contact@news24hrs.com</p>
           </div>
         <!-- </div> -->
       </div>
@@ -106,7 +106,7 @@
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <div class="footer_bottom_left">
-            <p>Copyright &copy; 2023 <a href="../index.html">New24hours</a></p>
+            <p>Copyright &copy; 2023 <a href="../index.html">New24hrs</a></p>
           </div>
         </div>
       </div>
