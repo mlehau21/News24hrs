@@ -166,7 +166,7 @@ span.meta_more:before{content:" "; font-family:FontAwesome; font-style:normal
 .footer_bottom_right{float:left; display:inline; width:100%; text-align:right}
 .single_page_area{display:inline; float:left; padding-top:15px; width:100%; padding-bottom:25px}
 .breadcrumb{ border-radius:0}
-.breadcrumb li a{color:#fff}
+.breadcrumb li a{color:#fff; font-weight: bold; font-size:Medium;}
 .breadcrumb > li+li:before{color:#fff}
 .breadcrumb > .active{color:#fff}
 .single_page_area > h2{ color:#798992; padding:20px 10px; line-height:40px}

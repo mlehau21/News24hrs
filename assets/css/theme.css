@@ -27,7 +27,7 @@ span.meta_date:hover, span.meta_comment:hover, span.meta_more:hover, span.meta_c
 .nav-tabs > li > a:hover{background-color:#3366ff; color:#fff !important}
 .single_bottom_rightbar ul li > a:hover{color:#3366ff}
 .labels_nav li a:hover{background-color:#111111}
-.breadcrumb{background-color:#3366ff; border:2px solid #3366ff}
+.breadcrumb{background-color:#40bef4; text-align: center;}
 .single_page_area > h2{border-left:5px solid #3366ff}
 .post_commentbox a:hover, .post_commentbox span:hover{color:#3366ff}
 .single_page_content blockquote{border-color:#eee #3366ff; border-left:5px solid #3366ff}

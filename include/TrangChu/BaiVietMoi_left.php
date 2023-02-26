@@ -16,7 +16,7 @@
                 <div class="media wow fadeInDown"> <a href="?page=chi-tiet-bai-viet&&CategoryID=<?php echo $row['CategoryID']?>&&ArticleID=<?php echo $row['ArticleID']?>" class="media-left"> <img alt="" src="upload/<?php echo $row['Img']?>"> </a>
                   <div class="media-body">
                     <h4 class="media-heading"><a href="?page=chi-tiet-bai-viet&&CategoryID=<?php echo $row['CategoryID']?>&&ArticleID=<?php echo $row['ArticleID']?>"><?php echo $row['Title']?></a></h4>
-                    <p><?php echo $row['Description']?></p>
+                    <p style = "float: left"><?php echo $row['Description']?></p>
                   </div>
                 </div>
               </li>
