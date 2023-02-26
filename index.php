@@ -82,20 +82,21 @@
   <div class="footer_top">
     <div class="container">
       <div class="row">
-        <div class="col-lg-4 col-md-4 col-sm-4">
+        <!-- <div class="col-lg-4 col-md-4 col-sm-4"> -->
           <div class="single_footer_top wow fadeInDown">
             <h2>Danh Mục</h2>
             <ul class="labels_nav">
               	<?php include 'include/TrangChu/DanhMuc.php' ?>
             </ul>
+              <!-- </div> -->
+              <hr>
           </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-4">
+        <!-- <div class="col-lg-4 col-md-4 col-sm-4"> -->
           <div class="single_footer_top wow fadeInRight">
             <h2>Thông tin</h2>
-            <p>Cơ quan chủ quản: Công ty trách nhiệm vô hạn 1 thành viên 72HTinTuc Trụ sở: 193 Nguyễn Lương Bằng, Liên Chiểu, Đà Nẵng. Chịu trách nhiệm xuất bản: Huỳnh Văn Duy. HOTLINE: 0167 4408 434</p>
+            <p>Công ty tin tức New24hours <br> Địa chỉ: Số 1 đường 3/2, Phường Xuân Khánh, Quận Ninh Kiều, thành Phố cần Thơ <br> Hotline: 1900.000 <br> Email: contact@news24hours.com</p>
           </div>
-        </div>
+        <!-- </div> -->
       </div>
     </div>
   </div>
@@ -104,7 +105,7 @@
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <div class="footer_bottom_left">
-            <p>Copyright &copy; 2017 <a href="../index.html">72hExpress</a></p>
+            <p>Copyright &copy; 2023 <a href="../index.html">New24hours</a></p>
           </div>
         </div>
       </div>

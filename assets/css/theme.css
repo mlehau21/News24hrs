@@ -12,14 +12,14 @@
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background-color:#fcc259}
 .slick-prev, .slick-next{background-color:#3366ff}
 .slick-prev:hover, .slick-next:hover{opacity:0.80}
-.bold_line span{background-color:#3366ff}
+.bold_line span{background-color:#49b3c1}
 .catg1_nav li .post_titile a:hover{color:#3366ff}
 .content_middle_middle:after{background-color:#3366ff}
 .content_middle_middle:before{background-color:#3366ff}
 .single_featured_slide > h2 a:hover{color:#3366ff}
 .catg_titile a:hover{color:#3366ff}
 span.meta_date:hover, span.meta_comment:hover, span.meta_more:hover, span.meta_comment a:hover, span.meta_more a:hover{color:#3366ff}
-.media-heading a:hover{color:#3366ff}
+.media-heading a:hover{color:#000}
 .single_bottom_rightbar > h2{border-bottom:3px solid #3366ff}
 .nav-tabs{border-bottom:1px solid #3366ff}
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus{color:#3366ff}
@@ -46,5 +46,5 @@ span.meta_date:hover, span.meta_comment:hover, span.meta_more:hover, span.meta_c
 .contact_form input[type="submit"]:hover{background-color:#3366ff; color:#fff; border-color:#3366ff}
 .our_office:before{border-bottom:1px solid #3366ff}
 .contact_us:before{border-bottom:1px solid #3366ff}
-.single_footer_top > h2{color:#3366ff}
+.single_footer_top > h2{color:#0cc0df}
 .similar_post h2 i{color:#3366ff}
