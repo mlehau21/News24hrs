@@ -1,7 +1,4 @@
-<?php 
-	if($_SESSION['quyenhan']=='1'){
-	?>
-    
+
     <div class="row">
                     <div class="col-md-12">
                         <h1 class="page-header">
@@ -70,5 +67,5 @@
                 <!-- /. ROW  -->
                 
     
-    <?php }?>
+    <?php ?>
 	

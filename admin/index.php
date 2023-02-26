@@ -57,6 +57,19 @@
                         <a href="?ADpage=QL-TL"><i class="glyphicon glyphicon-list"></i>Thể Loại</a>
                     </li>
                     
+                    <li>
+                        <a href="#"><i class="glyphicon glyphicon-user"></i> Tác Giả<span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li>
+                              <a href="?ADpage=Them-TG">Thêm Tác Giả</a>
+                            </li>
+                            </li>
+                            <li>
+                              <a href="?ADpage=QL-TG">Quản Lý Tác Giả</a>
+                            </li>
+                        </ul>
+                    </li>
+
                     <li class="dropdown">
                     <a href="?ADpage=Log-out"><i class="glyphicon glyphicon-remove"></i>Thoát</a>
                     
@@ -106,7 +119,19 @@
 									include("include/TheLoai/Xoa-TL.php");
 								break;
 								
-								
+								case "Them-TG":
+									include("include/TacGia/Them-TG.php"); //file include cùng cấp với index của admin
+								break;
+								case "QL-TG":
+									include("include/TacGia/QL-TG.php");
+								break;
+                                case "Sua-TG":
+									include("include/TacGia/Sua-TG.php");
+								break;
+                                case "Xoa-TG":
+									include("include/TacGia/Xoa-TG.php");
+								break;
+
 								//dang xuat
 								case "Log-out":
 									include("logout.php");

@@ -238,8 +238,8 @@
 	}
 	function Them_TG($UserName,$Password,$Password2,$LastName,$Email,$Phone){
         global $db;
-        $query="INSERT INTO users (UserName, Password, Password2,Name,Email,Phone,Jurisdiction) 
-		values (:UserName,:Password,:Password2,:LastName,:Email,:Phone,2)";
+        $query="INSERT INTO users (UserName, Password, Password2,Name,Email,Phone) 
+		values (:UserName,:Password,:Password2,:LastName,:Email,:Phone)";
 		
 		$stmt = $db->prepare($query);
         $stmt->bindParam(':UserName', $UserName);

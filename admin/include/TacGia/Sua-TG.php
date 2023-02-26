@@ -1,7 +1,4 @@
-<?php 
-	if($_SESSION['quyenhan']=='1'){
-	?>
-	
+
     <?php
 		$UserID=$_GET['UserID'];
     	$Select_TG=Select_TG($UserID);
@@ -89,4 +86,4 @@
                                     </div><!-- row --->
                                    	
     
-    <?php }?>
+    <?php ?>
