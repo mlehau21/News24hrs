@@ -27,8 +27,8 @@
 <div id="preloader">
   <div id="status">&nbsp;</div>
 </div>
-<div class="container">
-  <header id="header" style="text-align:center">
+<div class="container" style= "background-color: #e6ffff; width:100%">
+  <header id="header" style="text-align:center;">
     <a href= "index.php"><img  src="logofull.png" height=auto width="70%" ></a>
     <!-- <div class="row">
         <div class="header_bottom">
@@ -36,8 +36,9 @@
           <div class="header_bottom_right"></a></div>
         </div>
       </div> -->
+  </header>    
 </div>
-  </header>
+<div > 
   <div id="navarea" >
     <nav class="navbar navbar-default" role="navigation">
       <div class="container-fluid">
