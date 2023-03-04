@@ -9,7 +9,7 @@
                 <div class="col-lg-12">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            Sửa danh mục
+                            Sửa Danh Mục
                         </div>
                         <div class="panel-body">
                                     <form role="form" method="post">

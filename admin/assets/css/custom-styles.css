@@ -475,6 +475,10 @@ color: #fff !important;
   border-bottom: none !important;
 }
 
+.hau:hover {
+  color: black !important;
+}
+
 .nav-second-level li a {
   padding-left: 37px;
 }

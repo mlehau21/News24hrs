@@ -8,7 +8,7 @@
 <div class="row">
                     <div class="col-md-12">
                         <h1 class="page-header">
-                            Thêm <small>Tác Giả</small>
+                            Thêm Tác Giả
                         </h1>
                     </div>
 </div> 

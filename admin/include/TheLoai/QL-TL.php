@@ -1,7 +1,7 @@
 <div class="row">
                     <div class="col-md-12">
                         <h1 class="page-header">
-                            Quản Lý <small>danh mục</small>
+                            Quản Lý Danh Mục
                         </h1>
                     </div>
 </div> 

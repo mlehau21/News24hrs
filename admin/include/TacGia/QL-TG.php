@@ -2,7 +2,7 @@
     <div class="row">
                     <div class="col-md-12">
                         <h1 class="page-header">
-                            Danh Sách <small>Tác giả</small>
+                            Danh Sách Tác giả
                         </h1>
                     </div>
 </div> 

@@ -42,10 +42,10 @@
                         <a style="color:black" href="#"><i class="glyphicon glyphicon-list-alt"></i> Bài Viết<span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li>
-                              <a href="?ADpage=Them-BV">Thêm Bài Viết</a>
+                              <a class="hau" href="?ADpage=Them-BV">Thêm Bài Viết</a>
                             </li>
                             <li>
-                              <a href="?ADpage=QL-BV">Quản Lí Bài Viết</a>
+                              <a class="hau" href="?ADpage=QL-BV">Quản Lí Bài Viết</a>
                             </li>		
                         </ul>
                     </li>
@@ -59,11 +59,11 @@
                         <a style="color:black" href="#"><i class="glyphicon glyphicon-user"></i> Tác Giả<span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li>
-                              <a href="?ADpage=Them-TG">Thêm Tác Giả</a>
+                              <a class="hau" href="?ADpage=Them-TG">Thêm Tác Giả</a>
                             </li>
                             </li>
                             <li>
-                              <a href="?ADpage=QL-TG">Quản Lý Tác Giả</a>
+                              <a class="hau" href="?ADpage=QL-TG">Quản Lý Tác Giả</a>
                             </li>
                         </ul>
                     </li>
