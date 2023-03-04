@@ -96,7 +96,7 @@
 	function Top5BaiVietMoi()
 	{
 		global $db;
-		$query='select * from articles order by ArticleID DESC limit 30';
+		$query='select * from articles order by ArticleID DESC limit 8';
 		$statement = $db->prepare($query);
 		$statement->execute();
 		return $statement;
