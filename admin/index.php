@@ -35,13 +35,11 @@
 <body>
  <div id="wrapper"><!--/. NAV TOP  -->
         <nav class="navbar-default navbar-side" role="navigation">
-            <div class="sidebar-collapse">
-                <ul class="nav" id="main-menu">
-
-                    
-                    
+        <img  src="logofull.png" height=auto width="100%" >
+            <div class="sidebar-collapse">        
+                <ul class="nav" id="main-menu">                 
                     <li>
-                        <a href="#"><i class="glyphicon glyphicon-list-alt"></i> Bài Viết<span class="fa arrow"></span></a>
+                        <a style="color:black" href="#"><i class="glyphicon glyphicon-list-alt"></i> Bài Viết<span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li>
                               <a href="?ADpage=Them-BV">Thêm Bài Viết</a>
@@ -54,11 +52,11 @@
                     
                     
                     <li>
-                        <a href="?ADpage=QL-TL"><i class="glyphicon glyphicon-list"></i>Thể Loại</a>
+                        <a style="color:black" href="?ADpage=QL-TL"><i class="glyphicon glyphicon-list"></i>Thể Loại</a>
                     </li>
                     
                     <li>
-                        <a href="#"><i class="glyphicon glyphicon-user"></i> Tác Giả<span class="fa arrow"></span></a>
+                        <a style="color:black" href="#"><i class="glyphicon glyphicon-user"></i> Tác Giả<span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li>
                               <a href="?ADpage=Them-TG">Thêm Tác Giả</a>
@@ -71,7 +69,7 @@
                     </li>
 
                     <li class="dropdown">
-                    <a href="?ADpage=Log-out"><i class="glyphicon glyphicon-remove"></i>Thoát</a>
+                    <a style="color:black" href="?ADpage=Log-out"><i class="glyphicon glyphicon-remove"></i>Thoát</a>
                     
                     <!-- /.dropdown-alerts -->
           			</li>
