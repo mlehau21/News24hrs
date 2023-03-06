@@ -29,7 +29,7 @@
                                         </div>
                                         <div class="form-group">
                                             <label>Mô Tả Ngắn</label>
-                                            <input class="form-control" required placeholder="Nhập Mô Tả"  maxlength="43"name="mota" 
+                                            <input class="form-control" required placeholder="Nhập Mô Tả"  maxlength="150"name="mota" 
                                             value="<?php echo $row['Description'];?>" />
                                         </div>
                                         <div class="form-group">

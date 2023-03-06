@@ -16,7 +16,7 @@
                   <div class="catgimg2_container"> <a href="?page=chi-tiet-bai-viet&&ArticleID=<?php echo $row2['ArticleID'] ?>&&CategoryID=<?php echo $row2['CategoryID'] ?>"><img alt="" src="upload/<?php echo $row2['Img']?>"></a> </div>
                   <h2 class="catg_titile col-md-12"><a href="?page=chi-tiet-bai-viet&&ArticleID=<?php echo $row2['ArticleID'] ?>&&CategoryID=<?php echo $row2['CategoryID'] ?>"><?php echo $row2['Title']?></a></h2>
                   <div class="comments_box">   </div>
-                  <p style="text-align: center"><?php echo $row2['Description']?></p>
+                  <p><?php echo $row2['Description']?></p>
                 </li>
               </ul>
             </div>

@@ -21,7 +21,7 @@
                                         </div>
                                         <div class="form-group">
                                             <label>Mô tả ngắn</label>
-                                            <input class="form-control"   maxlength="43"  required="required" placeholder="Mô tả ngắn" name="mota">
+                                            <input class="form-control"   maxlength="150"  required="required" placeholder="Mô tả ngắn" name="mota">
                                         </div>
                                         <div class="form-group ">
                                             <label>Nội dung</label>
