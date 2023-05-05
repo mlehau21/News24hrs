@@ -17,7 +17,7 @@
                                         
                                         <div class="form-group">
                                             <label>Tiêu Đề</label>
-                                            <input class="form-control"   required="required" placeholder="Nhập Tiêu Đề" name="tieude">
+                                            <input class="form-control"  maxlength="120"  required="required" placeholder="Nhập Tiêu Đề" name="tieude">
                                         </div>
                                         <div class="form-group">
                                             <label>Mô tả ngắn</label>
